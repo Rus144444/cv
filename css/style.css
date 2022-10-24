@@ -58,15 +58,11 @@ body{
     font-family: Roboto;
     font-size: 18px;
 }
-.container__img{
-    line-height: 140%;
-    margin-right: 50px;
-}
 
-container__text-content,h1{
+.container__title{
     color: #000;
-    font-size: 50px;
     margin: 20px;
+    font-size: 40px;
 }
 
 .container__list{
@@ -119,7 +115,7 @@ container__text-content,h1{
     transform: scale(1.5);
 }
 
-.img{
+.container__img{
     max-height: 350px;
     max-width: 300px;
     border-radius: 50%;

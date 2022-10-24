@@ -118,8 +118,8 @@ body{
 .img{
     max-height: 350px;
     max-width: 300px;
-    min-height: 100px;
-    min-width: 100px;
+    min-height: 250px;
+    min-width: 200px;
     border-radius: 50%;
     box-shadow: 5px 5px 5px;
     margin-bottom: 30px;
